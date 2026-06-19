@@ -1,0 +1,20 @@
+# Vision
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+
+# Audio
+openai-whisper>=20231117
+edge-tts>=6.1.9
+pydub>=0.25.1
+
+# LLM
+anthropic>=0.34.0
+
+# API
+fastapi>=0.111.0
+uvicorn[standard]>=0.30.0
+python-multipart>=0.0.9
+
+# Utils
+python-dotenv>=1.0.0
+numpy>=1.24.0
